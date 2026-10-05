@@ -11,7 +11,7 @@ Applied **Data Science & AI** student at Breda University of Applied Sciences, i
 | Project | What it does | Stack |
 |---|---|---|
 | [NGT Sign Language Recognition](https://github.com/GabrielsProjectskis/NGT-Sign-Language) | Real-time recognition of Dutch Sign Language fingerspelling from a webcam | Python, MediaPipe, scikit-learn, Optuna, Streamlit |
-| [Gmail Auto-Responder with Gemini](#) | Walkthrough for a bot that drafts and sends context-aware email replies | Google Apps Script, Gemini API |
+| [Gmail Auto-Responder with Gemini](https://github.com/GabrielsProjectskis/gemini-email-automation) | Walkthrough for a bot that drafts and sends context-aware email replies | Google Apps Script, Gemini API |
 | [Invoice Generator](#) | Automated invoice generation for small businesses | Rust, Typescript, HTML |
 | [Business Card Generator](#) | Generates a professional business card from input details | _add stack_ |
 
