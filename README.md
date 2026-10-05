@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel 👋
 
-Applied **Data Science & AI** student at Breda University of Applied Sciences, looking for internships in data science, AI, analytics translation and consultancy.
+Applied **Data Science & AI** student at Breda University of Applied Sciences, interested in data science, AI, analytics translation and consultancy.
 
 🌐 **Portfolio:** https://gabrielsprojectskis.github.io
 📫 **Email:** gabrieljukema@gmail.com
