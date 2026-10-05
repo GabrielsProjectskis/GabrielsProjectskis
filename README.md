@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Gabriel 👋
 
-<!--
-**GabrielsProjectskis/GabrielsProjectskis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied **Data Science & AI** student at Breda University of Applied Sciences, looking for internships in data science, AI, analytics translation and consultancy.
 
-Here are some ideas to get you started:
+🌐 **Portfolio:** https://gabrielsprojectskis.github.io
+📫 **Email:** gabrieljukema@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com/in/gabriel-jukema-xxxx/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [NGT Sign Language Recognition](https://github.com/TimurKambarov/NGT-Sign-Language-Recognition) | Real-time recognition of Dutch Sign Language fingerspelling from a webcam | Python, MediaPipe, scikit-learn, Optuna, Streamlit |
+| [Gmail Auto-Responder with Gemini](#) | Walkthrough for a bot that drafts and sends context-aware email replies | Google Apps Script, Gemini API |
+| [Invoice Generator](#) | Automated invoice generation for small businesses | _add stack_ |
+| [Business Card Generator](#) | Generates a professional business card from input details | _add stack_ |
+
+## Tools
+
+`Python` `scikit-learn` `Optuna` `MediaPipe` `OpenCV` `Streamlit` `Google Apps Script` `Power BI`
